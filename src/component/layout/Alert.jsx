@@ -1,5 +1,4 @@
 import React from 'react'
-// import PropTypes from 'prop-types';
 
 const Alert = ({ alert }) => {
     return (
@@ -10,9 +9,5 @@ const Alert = ({ alert }) => {
         )
     )
 }
-
-// Alert.propTypes = {
-//     alert: PropTypes.null.isRequired
-// }
 
 export default Alert;
